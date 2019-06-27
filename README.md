@@ -1,11 +1,10 @@
+<center><img src="https://s2.ax1x.com/2019/06/27/Zn8t0S.jpg"></center>
 # About Me:heart:
  User:Rongsheng Wang
  
  Introduction:a student from computer science and technology
  
   My Blog:<a href="http：//sqdxwz.com">赴京书生</a>
-  
-  <center><img src="https://s2.ax1x.com/2019/06/27/Zn8GOf.md.gif" alt="Zn8GOf.gif" border="0" /></a></center>
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 
