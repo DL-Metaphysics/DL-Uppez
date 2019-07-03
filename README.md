@@ -8,7 +8,7 @@
  
  Introduction:a student from computer science and technology
  
-  My Blog:<a href="http：//sqdxwz.com">赴京书生</a>
+  My Blog:<a href="http：//sqdxwz.com">http：//sqdxwz.com</a>
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 
