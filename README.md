@@ -18,4 +18,5 @@
 :loudspeaker:K-means,NN(人工神经网络),矩阵分解,梯度下降
 </br>
 :loudspeaker:梯度下降作业
-
+</br>
+:loudspeaker:KNN鸢尾花
