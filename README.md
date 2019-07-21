@@ -21,7 +21,7 @@
 </br>
 :loudspeaker:KNN鸢尾花
 ---------------------------------------------------------------------------------------------------------------------------------------
-# :open_file_folder:Summer syudy
+# :open_file_folder:Summer study
 ## :ledger:Days-1
 :pencil:矩阵分解与正则化
 </br>
@@ -31,3 +31,10 @@
 </br>
 :pencil:梯度下降代码作业(非暑期培训)
 ## :ledger:Days-2
+:pencil:人工神经网络
+</br>
+:pencil:神经网络代码练习(手写)
+</br>
+:pencil:手写体识别
+</br>
+:pencil:手写体识别测试代码
