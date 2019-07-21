@@ -2,7 +2,7 @@
 
 </br>
 
-# About Me:heart:
+# :heart:About Me
 
  User:Rongsheng Wang
  
@@ -12,7 +12,7 @@
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-# My studies:open_file_folder:
+# :open_file_folder:My studies
 
 ## 2019.6.24  week-1
 :loudspeaker:K-means,NN(人工神经网络),矩阵分解,梯度下降
@@ -21,6 +21,6 @@
 </br>
 :loudspeaker:KNN鸢尾花
 ---------------------------------------------------------------------------------------------------------------------------------------
-# Summer syudy:open_file_folder:
-## Days-1:ledger:
+# :open_file_folder:Summer syudy
+## :ledger:Days-1
 :pencil:
