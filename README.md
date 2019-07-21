@@ -12,7 +12,7 @@
   
   Contact me::speech_balloon:QQ:603329354  :speech_balloon:Wechat:z88077077
   
-  :loudspeaker: **声明:** 以下学习笔记为Jupyter notebook所写,部分图片未上传Github,所以显示不正常,代码均已运行!!
+  :loudspeaker: **声明:** 以下学习笔记为Jupyter notebook所写,部分图片未上传Github,所以显示不正常,代码均已运行:exclamation::exclamation:
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 
