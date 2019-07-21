@@ -40,3 +40,5 @@
 :pencil:手写体识别测试代码
 ## :ledger:Days-3
 :pencil:卷积神经网络(CNN)概述(反向传播还未推导)
+## :ledger:Days-4(休息)
+:pencil:Python类学习
