@@ -35,16 +35,24 @@
 :pencil:梯度下降代码练习
 </br>
 :pencil:梯度下降代码作业(非暑期培训)
+</br>
+:pencil:手写MF
 ## :ledger:Days-2
 :pencil:人工神经网络
 </br>
 :pencil:神经网络代码练习(手写)
+</br>
+:pencil:BP神经网络公式推导[电子版]
+</br>
+:pencil:量化神经网络代码公式推导[电子版②]
 </br>
 :pencil:手写体识别
 </br>
 :pencil:手写体识别测试代码
 ## :ledger:Days-3
 :pencil:卷积神经网络(CNN)概述(反向传播还未推导)
+</br>
+:pencil:CNN
 ## :ledger:Days-4(休息)
 :pencil:Python类学习
 
